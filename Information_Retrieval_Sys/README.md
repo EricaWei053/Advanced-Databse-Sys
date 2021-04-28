@@ -1,7 +1,7 @@
 
 ### How to run
 ``` 
-python3 proj1.py <api key> <search engine> <precsion> <query>
+python3 main.py <api key> <search engine> <precsion> <query>
 ``` 
 
 ### External libraries installed
